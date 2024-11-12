@@ -13,6 +13,8 @@ import matplotlib.pyplot as plt
 import Plotter
 import Plot
 
+# hello its meeee!
+
 MAX_TIME = 500 # lets simulate 500 days
 N = 10_000
 I = 1
