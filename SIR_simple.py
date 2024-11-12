@@ -10,8 +10,6 @@
 # and choose random constants b and g to see what happens
 
 import matplotlib.pyplot as plt
-import Plotter
-import Plot
 
 MAX_TIME = 500 # lets simulate 500 days
 N = 10_000
