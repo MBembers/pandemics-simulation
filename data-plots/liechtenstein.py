@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Run this file from the root directory of the repository
 
 # Load the data
-data = pd.read_csv('Liechtenstein.csv')
+data = pd.read_csv('./data/Liechtenstein.csv')
 
 # Convert the date column to datetime
 data['date'] = pd.to_datetime(data['date'])
